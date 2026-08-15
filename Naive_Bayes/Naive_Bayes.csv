@@ -1,0 +1,11 @@
+message,class
+"You won a free prize","spam"
+"Exclusive offer, win money now","spam"
+"Buy now and get a discount","spam"
+"you have been selected for a prize","spam"
+"work meeting tomorrow at 10","not_spam"
+"I am sending you the project report","not_spam"
+"Can you review the document?","not_spam"
+"Machine learning class is on Monday","not_spam"
+"Get free money by clicking here","spam"
+"See you tomorrow at the university","not_spam"
