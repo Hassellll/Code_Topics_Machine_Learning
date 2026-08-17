@@ -1,0 +1,21 @@
+Age,Income,Education,Employment_Years,Credit_Score,Loan_Amount,Loan_Status
+25,30000,High School,2,580,10000,Rejected
+32,45000,College,5,650,15000,Approved
+41,,University,10,720,20000,Approved
+29,35000,,4,610,12000,Rejected
+45,60000,University,15,750,25000,Approved
+36,52000,College,,680,18000,Approved
+23,28000,High School,1,,8000,Rejected
+52,75000,University,20,790,30000,Approved
+31,,College,6,640,14000,Rejected
+39,48000,University,8,710,,Approved
+27,32000,High School,,590,11000,Rejected
+48,68000,University,18,770,28000,Approved
+34,42000,College,7,,16000,Approved
+26,29000,High School,3,570,9000,Rejected
+43,55000,University,12,730,22000,Approved
+37,50000,,9,690,19000,Approved
+30,38000,College,5,620,13000,Rejected
+55,80000,University,25,810,35000,Approved
+24,,High School,2,560,7000,Rejected
+46,63000,University,,760,26000,Approved
